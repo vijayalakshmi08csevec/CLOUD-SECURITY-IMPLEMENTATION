@@ -13,3 +13,5 @@ Deliverables include configured security policies and a detailed report of the s
 
 "OUTPUT':
 
+[INTERNSHIP TASK-4.docx](https://github.com/user-attachments/files/24314909/INTERNSHIP.TASK-4.docx)
+
